@@ -1,4 +1,4 @@
-# javascript-fixac-o-2
+# javascript-fixacão-2
 Exercício de fixação para função gernérica em TypeScript
 EXERCÍCIO PRÁTICO RÁPIDO PARA FUNÇÃO GENÉRICA EM TYPESCRIPT
 Diego de Araújo Veras
